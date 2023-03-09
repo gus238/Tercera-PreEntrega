@@ -4,6 +4,7 @@ Tercera Pre-Entrega del Proyecto Final Gustavo Gilardoni
 Abrir la terminal sobre el manage.py y usar python manage.py runserver
 
 cuenta admin: user: usuario1      password: Del1al9
+
 http://127.0.0.1:8000/admin/
 
 Usar para estar en el inicio:
